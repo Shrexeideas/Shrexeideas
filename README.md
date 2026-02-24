@@ -1,5 +1,14 @@
-💫HI, I'm Shree<br>
--COMPUTER SCIENCE ENGINEERING STUDENT<br>  Learning DSA, NLP, and ML model deployment<br>🤖 ML Intern @ Viswam.AI<br>🔭From AI-based news filtering to threat detection ideas<br> — I love mixing data, logic, and design.<br>
+💫 Hi, I'm Shree
+
+🎓 CSE Student | Aspiring AI/ML Engineer
+
+🧠 Focused on DSA, Natural Language Processing, and ML Deployment
+
+📄 Researching Insider Threat Detection using AI and Machine Learning, focusing on identifying suspicious behavior patterns and improving organizational security
+
+🚀 Building impactful AI projects from news intelligence to security systems
+
+⚡ Driven to turn ideas into scalable, real-world AI products
 
 
 ## 🌐 Socials:
